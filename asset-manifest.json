@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/React-UI-design-update/static/css/main.186319d3.chunk.css",
+    "main.js": "/React-UI-design-update/static/js/main.269a0b98.chunk.js",
+    "main.js.map": "/React-UI-design-update/static/js/main.269a0b98.chunk.js.map",
+    "runtime-main.js": "/React-UI-design-update/static/js/runtime-main.01d7c430.js",
+    "runtime-main.js.map": "/React-UI-design-update/static/js/runtime-main.01d7c430.js.map",
+    "static/css/2.714b1602.chunk.css": "/React-UI-design-update/static/css/2.714b1602.chunk.css",
+    "static/js/2.d7ee6a22.chunk.js": "/React-UI-design-update/static/js/2.d7ee6a22.chunk.js",
+    "static/js/2.d7ee6a22.chunk.js.map": "/React-UI-design-update/static/js/2.d7ee6a22.chunk.js.map",
+    "index.html": "/React-UI-design-update/index.html",
+    "precache-manifest.cdf62ae04dd143dbdc58e25fbe583908.js": "/React-UI-design-update/precache-manifest.cdf62ae04dd143dbdc58e25fbe583908.js",
+    "service-worker.js": "/React-UI-design-update/service-worker.js",
+    "static/css/2.714b1602.chunk.css.map": "/React-UI-design-update/static/css/2.714b1602.chunk.css.map",
+    "static/css/main.186319d3.chunk.css.map": "/React-UI-design-update/static/css/main.186319d3.chunk.css.map",
+    "static/js/2.d7ee6a22.chunk.js.LICENSE.txt": "/React-UI-design-update/static/js/2.d7ee6a22.chunk.js.LICENSE.txt",
+    "static/media/1.svg": "/React-UI-design-update/static/media/1.c0a71d5e.svg",
+    "static/media/active__users.svg": "/React-UI-design-update/static/media/active__users.9b2e219a.svg",
+    "static/media/categories.svg": "/React-UI-design-update/static/media/categories.c1b27570.svg",
+    "static/media/number__stories.svg": "/React-UI-design-update/static/media/number__stories.0ec28acf.svg",
+    "static/media/podcasts.svg": "/React-UI-design-update/static/media/podcasts.8ec6241d.svg",
+    "static/media/publications.svg": "/React-UI-design-update/static/media/publications.b29a9798.svg",
+    "static/media/total__playing.svg": "/React-UI-design-update/static/media/total__playing.4c1eeb0e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01d7c430.js",
+    "static/css/2.714b1602.chunk.css",
+    "static/js/2.d7ee6a22.chunk.js",
+    "static/css/main.186319d3.chunk.css",
+    "static/js/main.269a0b98.chunk.js"
+  ]
+}
