@@ -1,0 +1,47 @@
+.header {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  padding: 12px;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.brand__name {
+  margin-right: 15px;
+}
+
+.header__center {
+  display: flex;
+  align-items: center;
+  flex: 0.5;
+  background-color: whitesmoke;
+  padding: 5px;
+  border-radius: 20px;
+}
+
+.header__center > input {
+  border: none;
+  width: 100%;
+  padding: 8px;
+  background-color: whitesmoke;
+}
+
+.header__center > input:focus {
+  outline: none;
+}
+
+.header__right {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+  justify-content: space-around;
+}
+
+.header__right .notif {
+  margin-right: 12px;
+}

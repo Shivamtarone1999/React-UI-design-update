@@ -1,0 +1,18 @@
+.main {
+  display: flex;
+  background-color: #f8f8f8;
+}
+
+.sidebar {
+  flex: 0.2;
+}
+
+.content {
+  flex: 0.75;
+}
+
+.link__ {
+  text-decoration: none;
+  margin-left: 15px;
+  color: #000;
+}

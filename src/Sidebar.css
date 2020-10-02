@@ -1,0 +1,49 @@
+.sidebar {
+  padding: 12px;
+  background-color: white;
+}
+
+.sidebar__head {
+  font-size: 22px;
+  text-align: center;
+  margin-top: 28px;
+  font-weight: 800;
+  font-family: poppins;
+}
+
+.sidebar__items {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  align-items: center;
+  font-size: 18px;
+  padding: 20px;
+}
+.sidebar__items > p {
+  margin-left: 30px;
+}
+
+.sidebar__items:hover {
+  background-color: #eeecda;
+  cursor: pointer;
+}
+
+.sidebar__icon {
+  color: #7579e7;
+}
+
+.sidebar__items:hover > .sidebar__icon {
+  color: #000;
+}
+
+.charts {
+  margin-top: 50px;
+  display: flex;
+}
+
+.pie__chart {
+  width: 300px;
+}
+.pieChart > p {
+  text-align: center;
+}
